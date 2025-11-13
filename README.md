@@ -1,1 +1,3 @@
-# sql_Rickard_Garnau_de25
+# SQL
+
+## Course structure
